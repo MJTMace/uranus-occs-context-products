@@ -135,4 +135,3 @@ dependencies:
     - beautifulsoup4==4.9.3
     - lxml==4.6.3
     - soupsieve==2.2.1
-prefix: /Users/mm9684/anaconda/envs/rmsn
